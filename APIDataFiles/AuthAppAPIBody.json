@@ -1,0 +1,7 @@
+{
+  "type": "hotp",
+  "user": "swapna.tootikoora",
+  "realm": "mod.local",
+  "validity_period_start": "2020-05-22-11:00",
+  "validity_period_end": "2020-06-22-11:05"
+}
